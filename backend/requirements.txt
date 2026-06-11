@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-dotenv
+youtube-transcript-api
+requests
+openai
+langchain-apify
+langchain-core
+langchain-openai>=0.3.0,<0.4.0
